@@ -25,22 +25,22 @@ Flash Cart demonstrates core Android development practices—including Firebase 
 
 ## 🎯 Screens & Flow
 
-### -Login Screen
+### - Login Screen
    - OTP-based authentication using Firebase
    - Mobile number verification with one-time password
    - Smooth, password-free user onboarding
 
-### -Home Screen (Categories)
+### - Home Screen (Categories)
    - Responsive grid layout of product categories
    - Material Design styling
    - Easy navigation to items
 
-### -Error Screen
+### - Error Screen
    - Handles no-internet scenarios gracefully
    - Displays clear warning message
    - Items Screen
 
-### -View products within a selected category
+### - View products within a selected category
    - Card layouts with image, name, price, and Add to Cart button
    - Cart Screen
    - Shows added items with quantity and total price
