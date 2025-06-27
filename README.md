@@ -1,4 +1,4 @@
-##📱 Flash Cart
+## 📱 Flash Cart
 
 Flash Cart is a modern, user-friendly Android shopping application built with Kotlin and Jetpack Compose.
 Designed to simulate a real-world e-commerce experience, it enables users to securely log in using OTP-based phone authentication, browse products by category, add items to a cart, and manage their shopping with an intuitive, clean interface.
