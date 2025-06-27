@@ -93,7 +93,7 @@ Secure sign-in with PhoneAuthCredential
 
 ### 🔐 Login & OTP Verification
 
-
+(Screenshots/Login.jpg)   (Screenshots/OTP Verification.jpg)
 
 ### 🏠 Home / Category Display
 
