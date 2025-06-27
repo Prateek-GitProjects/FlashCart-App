@@ -93,27 +93,27 @@ Secure sign-in with PhoneAuthCredential
 
 ### 🔐 Login & OTP Verification
 
-![Login](Screenshots/LoginandOTP.jpg)
+![Login](Screenshots/LoginOTP.jpg)
 
 ### 🏠 Home / Category Display
 
-
+![Category](Screenshots/Category.jpg)
 
 ### ⚠️ Error Screen
 
-
+![Error](Screenshots/Error.jpg)
 
 ### 🛍️ Items Screen
 
-
+![Items](Screenshots/Items.jpg)
 
 ### 🛒 Cart Screen
 
-
+![Cart](Screenshots/Cart.jpg)
 
 ### 🚪 Logout Confirmation
 
-
+![Logout](Screenshots/Logout.jpg)
 
 ## 🚀 Getting Started
 
