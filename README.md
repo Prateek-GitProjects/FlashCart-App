@@ -111,7 +111,7 @@ Secure sign-in with PhoneAuthCredential
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository:
-git clone https://github.com/yourusername/flash-cart.git
+git clone https://github.com/Prateek-GitProjects/FlashCart-App
 
 ### 2️⃣ Open in Android Studio.
 
