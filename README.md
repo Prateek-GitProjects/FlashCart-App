@@ -1,4 +1,4 @@
-## 📱 Flash Cart
+# 📱 Flash Cart
 
 Flash Cart is a modern, user-friendly Android shopping application built with Kotlin and Jetpack Compose.
 Designed to simulate a real-world e-commerce experience, it enables users to securely log in using OTP-based phone authentication, browse products by category, add items to a cart, and manage their shopping with an intuitive, clean interface.
@@ -7,7 +7,7 @@ The app follows the MVVM architecture to ensure clear separation of concerns and
 It features a responsive UI adhering to Material Design principles, dynamic state management, and robust error handling for offline scenarios.
 Flash Cart demonstrates core Android development practices—including Firebase Authentication integration—and serves as a strong foundation for building more advanced, production-ready shopping apps in the future.
 
-##🌟 Features
+## 🌟 Features
 ✅ OTP-based login with Firebase Authentication
 ✅ Modern UI with Jetpack Compose
 ✅ Category-based product browsing
@@ -16,24 +16,24 @@ Flash Cart demonstrates core Android development practices—including Firebase 
 ✅ MVVM architecture for clean separation of concerns
 ✅ Logout with confirmation dialog
 
-##🎯 Screens & Flow
+## 🎯 Screens & Flow
 
-###-Login Screen
+### -Login Screen
    - OTP-based authentication using Firebase
    - Mobile number verification with one-time password
    - Smooth, password-free user onboarding
 
-###-Home Screen (Categories)
+### -Home Screen (Categories)
    - Responsive grid layout of product categories
    - Material Design styling
    - Easy navigation to items
 
-###-Error Screen
+### -Error Screen
    - Handles no-internet scenarios gracefully
    - Displays clear warning message
    - Items Screen
 
-###-View products within a selected category
+### -View products within a selected category
    - Card layouts with image, name, price, and Add to Cart button
    - Cart Screen
    - Shows added items with quantity and total price
@@ -41,7 +41,7 @@ Flash Cart demonstrates core Android development practices—including Firebase 
    - Logout Confirmation
    - Prevents accidental logouts with a confirmation dialog
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Kotlin
 
 Architecture: MVVM (Model-View-ViewModel)
@@ -54,7 +54,7 @@ Build System: Gradle
 
 IDE: Android Studio
 
-##🧩 Architecture Overview
+## 🧩 Architecture Overview
 Flash Cart uses the MVVM pattern for clear separation of concerns:
 
 Model: Data sources and business logic
@@ -63,7 +63,7 @@ ViewModel: UI-related data management using StateFlow / LiveData
 
 View: UI screens implemented with Jetpack Compose
 
-##✨ Jetpack Compose Highlights
+## ✨ Jetpack Compose Highlights
 
 Declarative UI with @Composable functions
 
@@ -73,7 +73,7 @@ Material Design components (Card, Button, TextField)
 
 Responsive layouts (Column, Row, LazyVerticalGrid)
 
-##🔐 Firebase Authentication
+## 🔐 Firebase Authentication
 Phone number-based OTP login
 
 Uses PhoneAuthProvider for sending OTP
@@ -82,48 +82,48 @@ Handles verification callbacks
 
 Secure sign-in with PhoneAuthCredential
 
-##📸 App Screenshots
+## 📸 App Screenshots
 
-###🔐 Login & OTP Verification
-
-
-
-###🏠 Home / Category Display
+### 🔐 Login & OTP Verification
 
 
 
-###⚠️ Error Screen
+### 🏠 Home / Category Display
 
 
 
-###🛍️ Items Screen
+### ⚠️ Error Screen
 
 
 
-###🛒 Cart Screen
+### 🛍️ Items Screen
 
 
 
-###🚪 Logout Confirmation
+### 🛒 Cart Screen
 
 
 
-##🚀 Getting Started
+### 🚪 Logout Confirmation
 
-###1️⃣ Clone the repository:
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository:
 git clone https://github.com/yourusername/flash-cart.git
 
-###2️⃣ Open in Android Studio.
+### 2️⃣ Open in Android Studio.
 
-###3️⃣ Connect your Firebase project:
+### 3️⃣ Connect your Firebase project:
 
 Enable Phone Authentication in Firebase Console.
 
 Add your google-services.json to the app/ directory.
 
-###4️⃣ Build & run the app on an emulator or Android device.
+### 4️⃣ Build & run the app on an emulator or Android device.
 
-##🧭 Future Scope
+## 🧭 Future Scope
 This project is an MVP (Minimum Viable Product) demo with scope for enhancements:
 
 ✅ Payment gateway integration (e.g., Razorpay, Google Pay)
