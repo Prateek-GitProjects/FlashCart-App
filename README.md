@@ -8,12 +8,19 @@ It features a responsive UI adhering to Material Design principles, dynamic stat
 Flash Cart demonstrates core Android development practices—including Firebase Authentication integration—and serves as a strong foundation for building more advanced, production-ready shopping apps in the future.
 
 ## 🌟 Features
+
 ✅ OTP-based login with Firebase Authentication
+
 ✅ Modern UI with Jetpack Compose
+
 ✅ Category-based product browsing
+
 ✅ Interactive cart system with dynamic updates
+
 ✅ Error screen for internet connectivity issues
+
 ✅ MVVM architecture for clean separation of concerns
+
 ✅ Logout with confirmation dialog
 
 ## 🎯 Screens & Flow
